@@ -33,7 +33,7 @@
 
 ## Запуск
 
-Нужен Python 3.10+.
+Нужен Python 3.10+. Тетрадка проверена на Python 3.13 и pandas 2.3; с pandas 3.x она не запускается, поэтому версия ограничена в `requirements.txt`.
 
 ```bash
 git clone https://github.com/VladG00dmanPersonal/YLDA-Climate.git
