@@ -6,7 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Data: keep only the raw dataset, generated CSVs are ignored
 *.csv
+!data/data.csv
 
 # Distribution / packaging
 .Python
